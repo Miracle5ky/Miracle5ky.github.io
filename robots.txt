@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://Miracle5ky.github.io/sitemap.xml
